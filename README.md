@@ -15,3 +15,11 @@ My cybersecurity learning log
 - Learned about cyber threats, CIA Triad (Confidentiality, Integrity, Availability)
 - Explored different cyber career paths: SOC Analyst, Pen Tester, GRC, etc.
 - Starting to understand how cybersecurity impacts real-world systems
+
+## Day 3: Linux Command Line
+
+- Practiced Linux terminal in my Ubuntu VM
+- Commands used: ls, cd, mkdir, touch, echo, cat, nano, chmod
+- Learned basic file permissions and system info commands
+- Set up a personal "cyberlab" directory for future practice
+- completed tryhackme pre path and completed fakebank hack
