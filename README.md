@@ -23,3 +23,11 @@ My cybersecurity learning log
 - Learned basic file permissions and system info commands
 - Set up a personal "cyberlab" directory for future practice
 - completed tryhackme pre path and completed fakebank hack
+
+- ## Day 4: Networking Basics
+
+- Learned about IP, DNS, MAC, TCP, UDP, and ports
+- Used ping, traceroute, netstat in Ubuntu
+- Explored packet capture using Wireshark (optional)
+- Understood how network traffic flows across the internet
+
