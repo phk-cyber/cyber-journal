@@ -28,6 +28,6 @@ My cybersecurity learning log
 
 - Learned about IP, DNS, MAC, TCP, UDP, and ports
 - Used ping, traceroute, netstat in Ubuntu
-- Explored packet capture using Wireshark (optional)
+- Explored packet capture using Wireshark 
 - Understood how network traffic flows across the internet
 
