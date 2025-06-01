@@ -30,4 +30,9 @@ My cybersecurity learning log
 - Used ping, traceroute, netstat in Ubuntu
 - Explored packet capture using Wireshark 
 - Understood how network traffic flows across the internet
+- 
+## Day 5: Windows Security Basics
 
+- Focused on UAC (User Account Control) and its role in system protection
+- Understood how Windows blocks unauthorized changes and privilege escalation
+- Explored UAC settings on Windows and learned its cyber relevance
