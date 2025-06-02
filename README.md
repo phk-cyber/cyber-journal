@@ -1,38 +1,54 @@
-# cyber-journal
-My cybersecurity learning log
-## Week 1 - Getting Started
+# 🛡️ Cybersecurity & Linux Learning Journal _Hema Kumar
 
-**Day 1: Virtual Lab Setup**
+---
 
-- Installed Ubuntu VM in VirtualBox
-- Removed ISO after install
-- Tested terminal commands: pwd, ls, mkdir, cd, nano
-- Created GitHub repo for weekly journal
+## Day 1: Introduction to Cybersecurity
+- Completed Cisco "Introduction to Cybersecurity" Module 1
+- Understood CIA Triad and cybersecurity career paths
+- Installed Ubuntu VM using VirtualBox
 
-## Day 2: Introduction to Cybersecurity
+---
 
-- Completed Module 1 & 2 of Cisco’s Introduction to Cybersecurity course
-- Learned about cyber threats, CIA Triad (Confidentiality, Integrity, Availability)
-- Explored different cyber career paths: SOC Analyst, Pen Tester, GRC, etc.
-- Starting to understand how cybersecurity impacts real-world systems
+## Day 2: Basic Linux Terminal + Cybersecurity Module 2
+- Completed Cisco Module 2
+- Practiced Linux commands: `ls`, `cd`, `mkdir`, `touch`, `nano`, `chmod`
 
-## Day 3: Linux Command Line
+---
 
-- Practiced Linux terminal in my Ubuntu VM
-- Commands used: ls, cd, mkdir, touch, echo, cat, nano, chmod
-- Learned basic file permissions and system info commands
-- Set up a personal "cyberlab" directory for future practice
-- completed tryhackme pre path and completed fakebank hack
+## Day 3:
+- 🐧 Linux Bootcamp Day 1: File creation, viewing, echo, `cat`, `nano`
+- 👨‍💻 Cyber: Practiced directory navigation and command chaining
+- Learned to fix permissions with `sudo`
 
-- ## Day 4: Networking Basics
+---
 
-- Learned about IP, DNS, MAC, TCP, UDP, and ports
-- Used ping, traceroute, netstat in Ubuntu
-- Explored packet capture using Wireshark 
-- Understood how network traffic flows across the internet
-- 
-## Day 5: Windows Security Basics
+## Day 4:
+- 🌐 Cyber: Networking Fundamentals
+  - Learned IP, DNS, TCP/UDP, ports
+  - Commands: `ping`, `traceroute`, `netstat`
+  - Installed and explored Wireshark
 
-- Focused on UAC (User Account Control) and its role in system protection
-- Understood how Windows blocks unauthorized changes and privilege escalation
-- Explored UAC settings on Windows and learned its cyber relevance
+---
+
+## Day 5:
+- 🪟 Cyber: Windows Security
+  - Explored User Account Control (UAC)
+  - Checked Defender, Firewall, account types
+- 🐧 Linux Bootcamp Day 2:
+  - File permissions with `ls -l`
+  - Ownership concepts
+  - Commands: `chmod`, `chown`, `whoami`, `id`
+
+---
+
+## Day 6:
+- 🪟 Cyber: Deeper into UAC and safe system use
+  - Understood the importance of account separation
+  - Safely simulated UAC prompts using `Run as Administrator`
+  - Reviewed Windows Security Center & Defender
+- 🐧 Linux Bootcamp Day 3:
+  - File operations: `cp`, `mv`, `rm`, renaming
+  - Viewed folder contents using `ls`, `tree`
+
+---
+
