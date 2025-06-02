@@ -49,6 +49,10 @@
 - 🐧 Linux Bootcamp Day 3:
   - File operations: `cp`, `mv`, `rm`, renaming
   - Viewed folder contents using `ls`, `tree`
+  - ## Linux Bootcamp Day 4:
+- Learned file and directory permissions (rwx)
+- Practiced `chmod`, `chown`, and `chgrp`
+- Understood special permissions (SUID, SGID, sticky bit)
 
 ---
 
