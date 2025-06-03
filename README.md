@@ -46,13 +46,20 @@
   - Understood the importance of account separation
   - Safely simulated UAC prompts using `Run as Administrator`
   - Reviewed Windows Security Center & Defender
-- 🐧 Linux Bootcamp Day 3:
-  - File operations: `cp`, `mv`, `rm`, renaming
-  - Viewed folder contents using `ls`, `tree`
-  - ## Linux Bootcamp Day 4:
-- Learned file and directory permissions (rwx)
-- Practiced `chmod`, `chown`, and `chgrp`
-- Understood special permissions (SUID, SGID, sticky bit)
-
+  
 ---
 
+## Day 7: Group-Based File Access & chgrp
+- Learned how to control file access using Linux groups
+- Practiced `chgrp` for assigning group ownership
+- Used `chmod` to set different access levels for owner, group, and others
+- Strengthened my understanding of Linux access control for real-world environments
+
+  ---
+## Linux Bootcamp – Day 5: Process Management & Monitoring
+- Learned how to view and manage processes using `ps`, `top`, and `htop`
+- Practiced killing and controlling processes via PID
+- Explored background/foreground job management with `&`, `fg`, and `Ctrl+Z`
+- Observed cron job scheduling for task automation
+
+  
